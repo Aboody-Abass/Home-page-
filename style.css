@@ -154,7 +154,7 @@ header nav ul {
     header nav .toggle-menu:hover {
         color: var(--main-color);
     }
-    header nav .toggle-menu:hover{
+   /* header nav .toggle-menu:hover{
         display: flex;
         flex-direction: column;
         position: absolute;
@@ -162,7 +162,7 @@ header nav ul {
         left: 0;
         width: 100%;
         background-color: rgba(29, 27, 27, 0.726);
-    }
+    }*/
     header nav ul li a {
         padding: 15px !important;
     }
