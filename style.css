@@ -129,7 +129,7 @@ header .container::after {
 header nav .toggle-menu {
     color: white;
     font-size: 25px;
-    position: absolute;
+    position: relative;
     margin: 0 0px;
 }
 
