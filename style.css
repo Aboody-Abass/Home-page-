@@ -133,11 +133,11 @@ header nav .toggle-menu {
     margin: 0 0px;
 }
 
-@media (min-width: 768px) {
+/*@media (min-width: 768px) {
     header nav .toggle-menu {
         display: none;
     }
-}
+}*/
 
 header nav ul {
     display: flex;
@@ -148,7 +148,7 @@ header nav ul {
 }
 
 @media (max-width: 767px) {
-    header nav .toggle-menu + ul {
+    /*header nav .toggle-menu + ul {
         display: none;
     }
     header nav .toggle-menu:hover {
