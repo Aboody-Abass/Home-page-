@@ -154,8 +154,8 @@ header nav ul {
     header nav .toggle-menu {
         color: var(--main-color);
     }
-    header nav .toggle-menu:hover{
-        display: flex;
+    header nav .toggle-menu{
+        display: block;
         flex-direction: column;
         position: absolute;
         top: 100%;
