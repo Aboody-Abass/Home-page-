@@ -154,14 +154,15 @@ header nav ul {
     header nav .toggle-menu {
         color: var(--main-color);
     }
-    header nav .toggle-menu{
+   /* header nav .toggle-menu{
+        display: block;
         flex-direction: column;
         position: absolute;
         top: 100%;
         left: 0;
         width: 100%;
         background-color: rgba(29, 27, 27, 0.726);
-    }
+    }*/
     header nav ul li a {
         padding: 15px !important;
     }
